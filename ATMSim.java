@@ -71,7 +71,7 @@ System.out.println("Daily withdrawal limit exceeded. You can withdraw up to ₹"
     }
 }
 
-public class ATMSimulation {
+public class ATMSim {
     static ArrayList<BankAccount> accounts = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
 
